@@ -1,1 +1,1 @@
-All R codes for Ornstein-Uhlenbeck process in Gymnocarpos przewalskii
+All R codes used for Ornstein-Uhlenbeck process in Gymnocarpos przewalskii
