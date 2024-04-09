@@ -1,1 +1,1 @@
-All R codes used for Ornstein-Uhlenbeck process in Gymnocarpos przewalskii
+These are the code files we used to perform the main analyses in the paper: "Shared xerophytic genes and their re-use in local adaptation to aridity in a desert plant Gymnocarpos przewalskii" authored by Ruirui Fu, Yuxiang Zhu, Ying Liu, Zhaoping Yang, Ruisen Lu, Yingxiong Qiu, Martin Lascoux, Pan Li, Jun Chen
